@@ -35,7 +35,7 @@
     },
     "dependencies": {
         "@apify/docusaurus-plugin-typedoc-api": "^4.4.5",
-        "@apify/utilities": "^2.8.0",
+        "@apify/utilities": "^2.19.1",
         "@docusaurus/core": "3.8.1",
         "@docusaurus/faster": "3.8.1",
         "@docusaurus/mdx-loader": "3.8.1",
